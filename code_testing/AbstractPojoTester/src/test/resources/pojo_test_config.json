@@ -1,0 +1,19 @@
+[
+  {
+    "classname" : "com.rbais.abstractpojotester.pojo.PojoTestDto",
+    "pojoStringType" : "testobject1",
+    "pojoLongValue" : 1,
+    "pojoDateTimeValue" : 1521130220106,
+    "pojoIntegerValue" : 1,
+    "pojoBooleanValue" : true,
+    "pojoList" : [ "String3", "String2", "String1" ]
+   },
+   {
+    "classname" : "com.rbais.abstractpojotester.pojo.UserDto",
+    "firstName" : "test",
+    "lastName" : "object2",
+    "password" : "unsafe",
+    "matchingPassword" : "unsafe",
+    "email" : "bogus@bogus.com"
+  }
+]
